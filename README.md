@@ -1,6 +1,7 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Bem vindo ao meu primeiro projetinho em java!
+Estou aprendendo, então resolvi criar um controlador de saldo. Espero que ele evolua ao longo das versões até ter uma interface gráfica para android.
 
 ## Folder Structure
 
